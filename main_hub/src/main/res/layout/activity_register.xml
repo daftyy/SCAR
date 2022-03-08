@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".RegisterActivity">
+
+
+    <EditText
+        android:id="@+id/email_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lastName_register"
+        android:layout_marginTop="25dp"
+        android:autofillHints="emailAddress"
+        android:hint="E-mail"
+        android:inputType="textEmailAddress"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/password_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/email_register"
+        android:layout_marginTop="25dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:minHeight="50dp" />
+
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password_register"
+        android:layout_marginTop="100dp"
+        android:text="REGISTER" />
+
+    <EditText
+        android:id="@+id/firstName_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/password_register"
+        android:layout_alignEnd="@+id/password_register"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="First Name"
+        android:inputType="textPersonName"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/lastName_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/firstName_register"
+        android:layout_alignStart="@+id/password_register"
+        android:layout_alignEnd="@+id/password_register"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Last Name"
+        android:inputType="textPersonName"
+        android:minHeight="50dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/gotologin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/register_button"
+        android:layout_marginTop="100dp"
+        android:text="Already Have an Account? Sign-in Here"
+        android:textAlignment="center"
+        app:chipSurfaceColor="@color/teal_200" />
+
+</RelativeLayout>

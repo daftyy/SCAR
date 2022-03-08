@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/email_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:autofillHints="emailAddress"
+        android:hint="E-mail"
+        android:inputType="textEmailAddress"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/password_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/email_login"
+        android:layout_marginTop="50dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:minHeight="50dp" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/password_login"
+        android:layout_marginTop="100dp"
+        android:text="LOG IN" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/gotoregister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_button"
+        android:layout_marginTop="144dp"
+        android:text="New to SCAR? Click here to Register"
+        android:textAlignment="center"
+        app:chipSurfaceColor="@color/teal_200" />
+
+
+</RelativeLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.SCAR_vJAVAproject">
+
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_mainapp"
+        android:label="SCAR"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Temp">
+        <activity
+            android:name=".AddCustomRemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryActivity"
+            android:exported="false"
+            android:label="Choose Category" />
+        <activity
+            android:name=".FinishedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".other_ReminderActivity_future"
+            android:label="Other"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".other_ReminderActivity_past"
+            android:label="Other"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".banking_ReminderActivity_future"
+            android:label="Banking"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".banking_ReminderActivity_past"
+            android:label="Banking"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".telecom_ReminderActivity_future"
+            android:label="Telecom"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".telecom_ReminderActivity_past"
+            android:label="Telecom"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".custom_ReminderActivity_future"
+            android:label="My Reminders"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".custom_ReminderActivity_past"
+            android:label="My Reminders"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".shopping_ReminderActivity_future"
+            android:label="Shopping"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".shopping_ReminderActivity_past"
+            android:label="Reminders"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".done_ReminderActivity"
+            android:label="Done"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".SMSActivity"
+            android:label="SMS"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:label="Register"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:label="Login"
+            android:theme="@style/Theme.Temp" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label=" "
+            android:theme="@style/Theme.Temp.NoActionBar" />
+    </application>
+
+</manifest>

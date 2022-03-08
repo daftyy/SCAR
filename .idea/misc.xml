@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_add_custom_rem.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_custom_reminder.xml" value="0.6" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_finished.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_reminder.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_smsactivity.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/banking_activity_reminder_future.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/banking_activity_reminder_past.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/banking_fragment_rec.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/banking_fragment_rec_past.xml" value="0.16" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_activity_reminder_future.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_activity_reminder_past.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_fragment_rec.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_fragment_rec_past.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/done_activity_reminder.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/done_fragment_rec.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/fragment_rec.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/other_activity_reminder_past.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/other_fragment_rec.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/other_fragment_rec_past.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/shopping_fragment_rec_past.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_custom.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_custom_future.xml" value="0.4" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_other_done.xml" value="0.4" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_other_future.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_other_past.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/layout/telecom_fragment_rec_past.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_v0JAVAproject/main_hub/src/main/res/menu/menu_options.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_vJAVAproject/main_hub/src/main/res/layout/activity_add_custom_rem.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_vJAVAproject/main_hub/src/main/res/layout/activity_finished.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/SCAR_vJAVAproject/main_hub/src/main/res/layout/activity_reminder.xml" value="0.25" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/app_bar_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/content_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/fragment_home.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/fragment_slideshow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp/app/src/main/res/menu/main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/drawable/ic_done.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout-w1240dp/activity_reminder_3.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_done.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_login.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_reminder.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_reminder_3.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_smsactivity.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/fragment_done.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/fragment_done_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/fragment_rec.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/singlerow.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/singlerow_2.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/layout/singlerow_3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/menu/activity_main_drawer.xml" value="0.11564625850340136" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_fordone/main_hub/src/main/res/menu/menu_options.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_defaulted.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_main_reminders.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_real_database.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_reminders.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_scrolling.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_smsactivity.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/activity_todoactivity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/content_main.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/fragment_gallery.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/fragment_home.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/fragment_main_reminders.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/fragment_slideshow.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/item_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/layout_category_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/layout/singlerow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/menu/main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtime/main_hub/src/main/res/menu/menu_scrolling.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout-w936dp/activity_reminder_2.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout-w936dp/fragment_rec_2.xml" value="0.272265625" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout-w936dp/singlerow_2.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_defaulted.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_finished.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_reminder.xml" value="0.5449569976544175" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_reminder_2.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_reminders.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_smsactivity.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/activity_start.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/app_bar_main.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/content_main.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/fragment_gallery.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/fragment_rec.xml" value="0.5731907894736842" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/fragment_rec_2.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/fragment_slideshow.xml" value="0.209375" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/item_row.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/singlerow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_realtimeget/main_hub/src/main/res/layout/singlerow_2.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/activity_register.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/activity_start.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/app_bar_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/content_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/fragment_gallery.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/app/src/main/res/layout/nav_header_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_main.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_real_database.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_smsactivity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/activity_start.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/app_bar_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/content_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/fragment_gallery.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/fragment_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/fragment_slideshow.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/layout/nav_header_main.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/neave/AndroidStudioProjects/temp_for_sms/main_hub/src/main/res/menu/activity_main_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_add_custom_rem.xml" value="0.264" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_custom_reminder.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_login.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/activity_start.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_activity_reminder_future.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_activity_reminder_past.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_fragment_rec.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/custom_fragment_rec_past.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/done_activity_reminder.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/shopping_activity_reminder_future.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/layout/singlerow_custom.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/menu/custom_menu_options.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/New folder/SCAR_v0JAVAproject/main_hub/src/main/res/menu/menu_options.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

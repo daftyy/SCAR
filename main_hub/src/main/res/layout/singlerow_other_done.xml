@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="#8DF5E3"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/row_company_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Company Name"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/row_amount_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/row_company_3"
+            android:layout_marginStart="10dp"
+            android:text="XYZ"
+            android:textAlignment="center"
+            android:textColor="@color/purple_500"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/row_date_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/row_amount_3"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:inputType="date"
+            android:text="Date"
+            android:textAlignment="center"
+            android:textColor="@color/purple_200"
+            android:textSize="22sp"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/delete_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="3dp"
+            android:background="#8DF5E3"
+            android:backgroundTint="#8DF5E3"
+            android:clickable="true"
+            app:borderWidth="0dp"
+            app:elevation="0dp"
+            app:fabSize="auto"
+            app:maxImageSize="40dp"
+            app:srcCompat="@drawable/ic_delete_24" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

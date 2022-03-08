@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "541714235108",
+    "firebase_url": "https://scared-935ef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scared-935ef",
+    "storage_bucket": "scared-935ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541714235108:android:1a2d46e33d363e2195b6f1",
+        "android_client_info": {
+          "package_name": "com.example.SCAR_vJAVAproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEXDKOraef7bIclWGMZlfHcMyjCFXwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541714235108:android:eec6a19421057ec195b6f1",
+        "android_client_info": {
+          "package_name": "com.example.scarVn10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEXDKOraef7bIclWGMZlfHcMyjCFXwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541714235108:android:47977189e12061c095b6f1",
+        "android_client_info": {
+          "package_name": "com.example.temp_for_done"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEXDKOraef7bIclWGMZlfHcMyjCFXwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541714235108-p845hlmmid0j7qfbslpvj0vao33afgna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
